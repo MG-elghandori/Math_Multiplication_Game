@@ -1,0 +1,72 @@
+/* Styles pour les téléphones mobiles */
+@media only screen and (max-width: 767px) {
+    .container.card {
+      padding: 10px; /* Modifier la taille de la marge interne */
+    }
+    
+    .d-flex.justify-content-between {
+      flex-direction: column; /* Afficher les éléments en colonne */
+      align-items: center; /* Centrer les éléments horizontalement */
+    }
+    
+    .score.fs-5.d-flex {
+      flex-direction: column; /* Afficher les éléments en colonne */
+      align-items: center; /* Centrer les éléments horizontalement */
+      gap: 10px; /* Ajouter de l'espace entre les éléments */
+    }
+    
+    .row.justify-content-center {
+      flex-direction: column; /* Afficher les éléments en colonne */
+      align-items: center; /* Centrer les éléments horizontalement */
+    }
+    
+    .col-12.col-md-4.text-center.text-success {
+      margin-top: 20px; /* Ajouter de l'espace en haut */
+    }
+    
+    .col-12.col-md-6,
+    .col-12.col-md-2 {
+      width: 100%; /* Utiliser la largeur complète */
+      margin-bottom: 10px; /* Ajouter de l'espace en bas */
+    }
+    
+    .container.mt-4 {
+      margin-top: 20px; /* Ajouter de l'espace en haut */
+    }
+    
+    .container.row.col-12 {
+      flex-direction: column; /* Afficher les éléments en colonne */
+      align-items: center; /* Centrer les éléments horizontalement */
+    }
+    
+    .d-flex.col-6 {
+      width: 100%; /* Utiliser la largeur complète */
+    }
+    
+    .col-12.col-md-6.fs-4.text-primary {
+      text-align: center; /* Centrer le texte horizontalement */
+    }
+    
+    .form-control.col-6 {
+      width: 100%; /* Utiliser la largeur complète */
+    }
+    
+    .d-flex.justify-content-center.gap-3.mt-5.col-12 {
+      flex-direction: column; /* Afficher les éléments en colonne */
+      align-items: center; /* Centrer les éléments horizontalement */
+    }
+    
+    .btn.btn-danger.col-5,
+    .btn.btn-success.col-5 {
+      width: 100%; /* Utiliser la largeur complète */
+      margin-bottom: 10px; /* Ajouter de l'espace en bas */
+    }
+    .bard{
+        display: none;
+    }
+    .start-btn{
+        display: flex;
+        justify-content: center;
+    }
+  }
+  

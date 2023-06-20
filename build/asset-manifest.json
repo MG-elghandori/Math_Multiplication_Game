@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/static/js/main.2f0b6fab.js",
+    "index.html": "/index.html",
+    "static/media/heart-svgrepo-com.svg": "/static/media/heart-svgrepo-com.a5125d34558e41d5613f4ed0c58f2e0c.svg",
+    "main.2f0b6fab.js.map": "/static/js/main.2f0b6fab.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2f0b6fab.js"
+  ]
+}
